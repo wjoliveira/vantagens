@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\wjoliveira\\php-classes\\src"
+            "Wjoliveira\\": "vendor\\wjoliveira\\php-classes\\src"
         }
     }
 }
